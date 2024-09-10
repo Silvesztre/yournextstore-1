@@ -17,6 +17,10 @@ const links = [
 		label: "Accessories",
 		href: "/category/accessories",
 	},
+	{
+		label: "About Us",
+		href: "/about",
+	},
 ];
 
 export const Nav = async () => {
